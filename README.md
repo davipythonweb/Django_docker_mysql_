@@ -1,5 +1,9 @@
 # Django_docker_mysql_
 
+<!-- Banco MySQL em nuvem com container Docker.(configuração simples.) -->
+<!-- video 1 com tutorial deste projeto==>'https://www.youtube.com/watch?v=WtdefC1WJgE', 
+video 2 mais um exemplo =>
+'https://www.youtube.com/watch?v=bldOLqAAqos' -->
 
 #### instalar => pip install mysqlclient
 
