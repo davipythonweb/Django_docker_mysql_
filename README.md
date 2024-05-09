@@ -11,7 +11,7 @@
 #### instalar => pip install django
 #### instalar => pip install mysqlclient
 
-#### criar arquivos 
+#### criar arquivos dentro de uma pasta > MySQL
 - data.sql
 - docker-compose.yml
 - Dockerfile
