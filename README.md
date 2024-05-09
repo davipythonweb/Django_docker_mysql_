@@ -5,6 +5,9 @@
 video 2 mais um exemplo =>
 'https://www.youtube.com/watch?v=bldOLqAAqos' -->
 
+#### criar environment => python -m venv venv
+#### ativar venv => source venv/bin/activate
+#### instalar => pip install django
 #### instalar => pip install mysqlclient
 
 <!-- criar arquivos -->
