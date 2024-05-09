@@ -1,16 +1,17 @@
 # Django_docker_mysql_
 
-<!-- Banco MySQL em nuvem com container Docker.(configuração simples.) -->
-<!-- video 1 com tutorial deste projeto==>'https://www.youtube.com/watch?v=WtdefC1WJgE', 
-video 2 mais um exemplo =>
-'https://www.youtube.com/watch?v=bldOLqAAqos' -->
+* Banco MySQL em nuvem com container Docker.(configuração simples.) 
+* video 1 com tutorial deste projeto==>
+'https://www.youtube.com/watch?v=WtdefC1WJgE' 
+* video 2 =>
+'https://www.youtube.com/watch?v=bldOLqAAqos'
 
 #### criar environment => python -m venv venv
 #### ativar venv => source venv/bin/activate
 #### instalar => pip install django
 #### instalar => pip install mysqlclient
 
-<!-- criar arquivos -->
+#### criar arquivos 
 - data.sql
 - docker-compose.yml
 - Dockerfile
